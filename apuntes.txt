@@ -1,0 +1,14 @@
+mirar si tengo ssh en git si no tengo hacerlo
+
+subir esto a git
+git init en el visual, nos creamos un .gitignore
+    node_modules
+    .env
+
+git add .
+
+git commit -m "inicializamos proyecto websit v1.0.0"
+
+git status
+git remote add origin...(está en git)
+git push -u  origin master
